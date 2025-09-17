@@ -37,5 +37,8 @@
 *.out
 *.app
 
+# Directoy that contains Executables
+bin/
+
 # debug information files
 *.dwo
